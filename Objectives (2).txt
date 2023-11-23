@@ -1,0 +1,10 @@
+1. Top 10 Countries by Total Cases
+2. New Cases by Continent
+3. Total Deaths by Continent
+4. Total Cases by Countries
+5. Median Age by Country
+
+CARDS: 6. Total Cases
+			7. New Cases 
+			8. Total Deaths 
+
